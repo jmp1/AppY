@@ -1,1 +1,3 @@
 correct one
+
+update config to work with feature 1 and 2
